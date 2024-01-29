@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\Source\\CityEngineUnreal\\CityEngineUnreal.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\.vscode\\compileCommands_CityEngineUnreal\\CityEngineUnreal.269.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\Source\\CityEngineUnreal\\CityEngineUnreal.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\.vscode\\compileCommands_CityEngineUnreal\\CityEngineUnreal.269.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\Source\\CityEngineUnreal\\CityEngineUnreal.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\.vscode\\compileCommands_CityEngineUnreal\\CityEngineUnreal.269.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\Source\\CityEngineUnreal\\FlyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\.vscode\\compileCommands_CityEngineUnreal\\CityEngineUnreal.269.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\Source\\CityEngineUnreal\\FlyCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\TNMN\\OneDrive - Ramboll\\Desktop\\SustainabilityModeller\\Backups\\CityEngineUnreal\\.vscode\\compileCommands_CityEngineUnreal\\CityEngineUnreal.269.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
